@@ -1,0 +1,140 @@
+/* .service-header {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    color: #00134d;
+    letter-spacing: 1px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 600;
+    text-align: center;
+}
+
+.addtocard-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    align-items: center;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2), 0px 0px 50px rgba(0, 0, 0, 0.2);
+}
+
+@media only screen and (max-width: 480px) {
+    .addtocard-container {
+        display: flex;
+        flex-direction: column;
+        margin-left: 8%;
+        margin-right: 8%;
+        margin-bottom: 2%;
+        margin-top: 2%;
+        align-items: center;
+        padding: 0;
+        box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2), 0px 0px 50px rgba(0, 0, 0, 0.2);
+    }
+}
+
+.topmost {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and(max-width: 420px) {
+    .topmost {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.card-grp {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
+
+.service-card {
+    display: flex;
+   
+    flex-direction: column;
+}
+
+.service-card-container {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+@media only screen and(max-width: 420px) {
+    .service-card-container {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+
+.new-services-cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;    
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+@media (max-width: 420px) {
+    .new-services-cards {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.service-imgbody {
+    width: 30%;
+    height: 30%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.body-of-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.no-service {
+    color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.buttons-flex {
+    display: flex;
+    flex-direction: row;
+    margin-left: 1%;
+    margin-right: 1%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.table-content {
+    color: black;
+}
+
+
+
+
+
+
+
+ */
